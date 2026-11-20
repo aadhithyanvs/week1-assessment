@@ -19,5 +19,5 @@ This project covers Python programming, API handling, NumPy, Pandas, data cleani
 5. Marketing is the department without employees.
 
 5. Marketing is the department without employees.
-6. 
+
 Main branch README update for conflict demonstration.
