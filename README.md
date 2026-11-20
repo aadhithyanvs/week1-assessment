@@ -16,5 +16,5 @@ This project covers Python programming, API handling, NumPy, Pandas, data cleani
 3. Duplicate employee records were removed.
 4. IT has the highest employee headcount.
 5. Marketing is the department without employees.
-6. 
+   
 Main branch README update for conflict demonstration.
